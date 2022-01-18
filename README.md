@@ -1,6 +1,7 @@
 ## msc thesis code
 
-This is the repository that contains Google Earth Engine JavaScript code for the master thesis entitld "Glacial lake changes from cloud processing of optical satellite images"
+This is the repository that contains Google Earth Engine JavaScript code for the master thesis entitld "Glacial lake changes from cloud processing of optical satellite images", written at University of Oslo
+For mode details and full text see here: https://www.duo.uio.no/handle/10852/88419
 
 // image_count.js - counts available Landsat images for the area of interest 
 
